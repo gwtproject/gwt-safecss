@@ -1,3 +1,6 @@
+**Important Notice** gwt-safecss is now part of gwt-safehtml! 
+
+
 ![GWT3/J2CL compatible](https://img.shields.io/badge/GWT3/J2CL-compatible-brightgreen.svg)
 
 # GWT SafeCSS
