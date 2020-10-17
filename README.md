@@ -1,6 +1,7 @@
 **Important Notice**
 
 **gwt-safecss is now part of [gwt-safehtml](https://github.com/gwtproject/gwt-safehtml) and will not longer be maintained!**
+
 Please use gwt-safecss from the gwt-safehtml project.
 
 
